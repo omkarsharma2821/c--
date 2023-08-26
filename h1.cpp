@@ -1,12 +1,4 @@
-// #include <iostream>
-// using namespace std;
-// int main()
-// {
-//     cout<<"har har mahadev \n"<<endl;
-//     cout<<"har har mahadev";
-//     return 0;
-// }
-
+// har har mahadev
 #include <iostream>
 using namespace std;
 int main()
