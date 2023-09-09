@@ -8,7 +8,7 @@ int PalindromicArray(int arr[],int n){
         int start = 0;
         int end = len-1;
         while(start<=end){
-            swap(str[start],str[end]);
+            swap(arr[start],arr[end]);
             if(str[start]!=str[end])
             return false;
         }
