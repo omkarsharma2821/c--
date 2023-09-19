@@ -1,12 +1,11 @@
 #include <iostream>
-#include <conio.h>
+using namespace std;
 int main()
 {
     
     int x;
-    std:: cout<<"enter the no : ";
-    std::cin>>x;
+    cout<<"enter the no : ";
+    cin>>x;
     int z = x*x;
-    std::cout<<"square of "<< x <<" is "<<z;
-    getch();   
+    cout<<"square of "<< x <<" is "<<z;
 }
