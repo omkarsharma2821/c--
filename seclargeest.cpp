@@ -13,6 +13,7 @@ int seclargest(int arr[], int n){
         }
     }
     return seclargest;
+    
 
 }
 
