@@ -16,7 +16,7 @@ int main(){
     int n;
     cin>>n;
     if(isprime(n)){
-    cout<<"is prime"<<endl;
+    cout<< n <<" is prime"<<endl;
     }
     else
     cout<<"is not prime"<<endl;
