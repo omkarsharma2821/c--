@@ -11,5 +11,6 @@ void printVec(vector<int> v){
 
 int main(){
     vector<int>v(7,10);
+    v.push_back(108);
     printVec(v);
 }
